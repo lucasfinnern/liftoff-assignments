@@ -8,8 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+https://docs.google.com/drawings/d/15fMXaY5g9PITfowLxKcBJdFZ3VSjJ0XHUC0tow475iM/edit
+
+https://docs.google.com/drawings/d/1ADt2cb91EHuFGbQnZNybvJqemW9F-2lrgzc0JHJYCCE/edit?usp=sharing
+
+https://docs.google.com/drawings/d/1-HWXFs2ziT5WW9nSbb1dJOfPbRW3bUWmxFoOh99GWJ4/edit
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2185427
