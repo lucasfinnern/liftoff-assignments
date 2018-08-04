@@ -13,7 +13,4 @@ https://github.com/lucasfinnern
 www.linkedin.com/in/lucas-finnern
 
 ### Resume
-<iframe src="https://resume.creddle.io/embed/djxpz46jyhe"
-  width="850" height="1100" seamless></iframe> 
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+https://resume.creddle.io/resume/djxpz46jyhe
